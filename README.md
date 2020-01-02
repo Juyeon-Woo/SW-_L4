@@ -1,5 +1,5 @@
 # SW-L4 생산관리 모니터링 실시 프로그램
-과정평가형 정보처리산업기사 SW개발 Level4의 요구사항에 맞춰 JSP와 DB(Oracle)로 구현한 생산관리 모니터링 실시 프로그램입니다.
+과정평가형 정보처리산업기사 SW개발 Level4 다음 요구사항에 맞춰 JSP와 DB(Oracle)로 구현한 생산관리 모니터링 실시 프로그램입니다.
 
 <img src="https://postfiles.pstatic.net/MjAyMDAxMDJfMjUw/MDAxNTc3OTU3MTU4NDYy.xibrVLsRZIJBB4vhptTN9qngw-kWwcaV06evL8HQ-bYg._F7O8x1CpGLsVJgfKkmL1v_Sm39Qk9vTCToBBpTDfykg.PNG.katejuyeon_/SE-6e24d63e-e06a-45e5-9099-c932ef1006d1.png?type=w966"><br>
 <img src="https://postfiles.pstatic.net/MjAyMDAxMDJfOTUg/MDAxNTc3OTU3MDA4Njkz.tHqe383bNsqoTfKYUhpVxxI7ClmANvUIpOiH0WEz3SUg.zFpQYtQsqX2UNcMYrsO2UnlypxkSt7AOfZGRFK7T4b0g.PNG.katejuyeon_/2.png?type=w966"><br>
